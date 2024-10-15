@@ -1,7 +1,7 @@
 {
   "name": "danifo/advanced-custom-fields-pro",
   "type": "wordpress-plugin",
-  "version": "6.2.9",
+  "version": "6.3.8",
   "require": {
     "composer/installers": "^1.0"
   }
